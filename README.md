@@ -1,5 +1,5 @@
 ## Welcome to my GitHub Profile 🤘
-##### My name is Harshil Bhandari and I am currently pursuing a Bacherlor's Degree in Computer Science and Engineering from SRM Institute of Science and Technology, Kattankulathur. I have keen interest in a number of fields related to Data Science including Artificial Intelligence, Machine Learning with special emphasis on Computer Vision. I believe that we have all been a part of a data-driven society since the beginning of time and I aim to use the tools available at my disposal to harness the power of data and work with everyone to contribute towards making our society a better place.
+##### My name is Harshil Bhandari and I am currently pursuing a Bacherlor's Degree in Computer Science and Engineering from SRM Institute of Science and Technology, Kattankulathur. I have keen interest in a number of fields related to Data Science including Machine Learning and Aritificial Intelligence with special emphasis on Computer Vision. I believe that we have all been a part of a data-driven society since the beginning of time and I aim to use the tools available at my disposal to harness the power of data and work with everyone to contribute towards making our society a better place.
 
 
 
