@@ -1,19 +1,12 @@
-## Welcome to my GitHub Profile 🤘
-##### My name is Harshil Bhandari and I am currently pursuing a Bacherlor's Degree in Computer Science and Engineering from SRM Institute of Science and Technology, Kattankulathur. I have keen interest in a number of fields related to Data Science including Machine Learning and Aritificial Intelligence with special emphasis on Computer Vision. I believe that we have all been a part of a data-driven society since the beginning of time and I aim to use the tools available at my disposal to harness the power of data and work with everyone to contribute towards making our society a better place.
+<h1 align="center">Hi there! I am Harshil 🤟</h1>
+<h3 align="center">A passionate AI/ML developer and Data Science enthusiast</h3>
 
+<br>
+<p><b>I am currently pursuing a Bacherlor's Degree in Computer Science and Engineering from SRM Institute of Science and Technology, Kattankulathur. I have keen interest in a number of fields related to Data Science including Machine Learning and Aritificial Intelligence with special emphasis on Computer Vision. I believe that we have all been a part of a data-driven society since the beginning of time and I aim to use the tools available at my disposal to harness the power of data and work with everyone to contribute towards making our society a better place.</p>
+  <h3 align="center"> My Skills </h3>
 
-
-<!--
-**Harshil7875/Harshil7875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshil7875&show_icons=true&locale=en&layout=compact" alt="harshil7875" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshil7875&show_icons=true&locale=en" alt="harshil7875" /></p>
