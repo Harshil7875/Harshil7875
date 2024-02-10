@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I am <a href="https://www.linkedin.com/in/harshil-bhandari-128595215">Harshil</a> 🤙</h1>
+<h1 align="center">Hi there! I am <a href="https://www.linkedin.com/in/harshil-bhandari-128595215">Harshil</a></h1>
 <h3 align="center">A passionate AI/ML developer and Data Science enthusiast</h3>
 
 <p><b>Enthusiastic and detail-oriented Computer Science graduate with a passion for leveraging cutting-edge technologies to solve complex challenges. Currently pursuing an M.S. in Computer Science at the University of California, Davis. Open to exciting opportunities in data science, machine learning, and artificial intelligence.</p>
